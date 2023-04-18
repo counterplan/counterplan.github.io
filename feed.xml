@@ -5,24 +5,24 @@
     <googleplay:author>Elijah</googleplay:author>
     <author>Elijah</author>
     <image>
-      <url>http://localhost:8000/img/icon.png</url>
+      <url>https://counterplan.github.io/img/icon.png</url>
       <title>Creative Engineering</title>
-      <link>http://localhost:8000</link>
+      <link>https://counterplan.github.io</link>
     </image>
     <copyright>Rody Davis Productions 2020</copyright>
     <description>Exploration of politics, economics, philosophy, and more by an avid debater</description>
-    <googleplay:image href="http://localhost:8000/img/icon.png" />
+    <googleplay:image href="https://counterplan.github.io/img/icon.png" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 18 Apr 2023 13:00:00 PDT</pubDate>
-    <link>http://localhost:8000/feed.xml</link>
-    <itunes:image href="http://localhost:8000/img/icon.png" />
+    <link>https://counterplan.github.io/feed.xml</link>
+    <itunes:image href="https://counterplan.github.io/img/icon.png" />
     <item>
       <author>Elijah</author>
       <itunes:author>Elijah</itunes:author>
       <title>Test Episode</title>
       <!-- <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate> -->
-      <enclosure url="http://localhost:8000/audio/test.mp3" type="audio/mpeg" length="475666" />
+      <enclosure url="https://counterplan.github.io/audio/test.mp3" type="audio/mpeg" length="475666" />
       <!-- <itunes:duration>54:08</itunes:duration> -->
       <!-- <guid isPermaLink="false">cepod01</guid> -->
       <itunes:explicit>no</itunes:explicit>
