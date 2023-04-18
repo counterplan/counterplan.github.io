@@ -1,31 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Creative Engineering</title>
-    <googleplay:author>Rody Davis, Norbert Kozsir</googleplay:author>
-    <rawvoice:rating>TV-G</rawvoice:rating>
-    <rawvoice:location>San Francisco, California</rawvoice:location>
-    <rawvoice:frequency>Weekly</rawvoice:frequency>
-    <author>Rody Davis, Norbert Kozsir</author>
-    <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
-    <itunes:email>rody.davis.jr@gmail.com</itunes:email>
-    <itunes:category text="Technology" />
+    <title>Counterplan - Musings of a Debater</title>
+    <googleplay:author>Elijah</googleplay:author>
+    <author>Elijah</author>
     <image>
       <url>http://localhost:8000/img/icon.png</url>
       <title>Creative Engineering</title>
       <link>http://localhost:8000</link>
     </image>
-    <itunes:owner>
-      <itunes:name>Rody Davis</itunes:name>
-      <itunes:email>rody.davis.jr@gmail.com</itunes:email>
-    </itunes:owner>
-    <itunes:keywords>flutter,dart,github,vr,ar,web</itunes:keywords>
     <copyright>Rody Davis Productions 2020</copyright>
-    <description>Exploring Flutter, VR, AR, Cross-Platform Projects</description>
+    <description>Exploration of politics, economics, philosophy, and more by an avid debater</description>
     <googleplay:image href="http://localhost:8000/img/icon.png" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
+    <pubDate>Mon, 18 Apr 2023 13:00:00 PDT</pubDate>
     <link>http://localhost:8000/feed.xml</link>
     <itunes:image href="http://localhost:8000/img/icon.png" />
     <item>
