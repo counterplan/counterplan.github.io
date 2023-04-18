@@ -1,34 +1,61 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-  <channel>
-    <title>Counterplan - Musings of a Debater</title>
-    <googleplay:author>Elijah</googleplay:author>
-    <author>Elijah</author>
-    <image>
-      <url>https://counterplan.github.io/img/icon.png</url>
-      <title>Creative Engineering</title>
-      <link>https://counterplan.github.io</link>
-    </image>
-    <copyright>Rody Davis Productions 2020</copyright>
-    <description>Exploration of politics, economics, philosophy, and more by an avid debater</description>
-    <googleplay:image href="https://counterplan.github.io/img/icon.png" />
-    <language>en-us</language>
-    <itunes:explicit>no</itunes:explicit>
-    <pubDate>Mon, 18 Apr 2023 13:00:00 PDT</pubDate>
-    <link>https://counterplan.github.io/feed.xml</link>
-    <itunes:image href="https://counterplan.github.io/img/icon.png" />
-    <item>
-      <author>Elijah</author>
-      <itunes:author>Elijah</itunes:author>
-      <title>Test Episode</title>
-      <!-- <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate> -->
-      <enclosure url="https://counterplan.github.io/audio/test.mp3" type="audio/mpeg" length="475666" />
-      <!-- <itunes:duration>54:08</itunes:duration> -->
-      <!-- <guid isPermaLink="false">cepod01</guid> -->
-      <itunes:explicit>no</itunes:explicit>
-      <description>
-little test thing yeah
-        </description>
-    </item>
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+<channel>
+<title>Counterplan - Musings of a Debater</title>
+<link>https://counterplan.github.io/</link>
+<language>en-us</language>
+<atom:link href="https://counterplan.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+<copyright>Elijah</copyright>
+<itunes:subtitle>Musings of a Debater</itunes:subtitle>
+<itunes:author>Elijah</itunes:author>
+<itunes:summary>
+Experiments in thought surrounding politics, economics, and philosophy.
+</itunes:summary>
+<itunes:keywords>
+politics, economics, philosophy, debate
+</itunes:keywords>
+<description>
+Experiments in thought surrounding politics, economics, and philosophy.
+</description>
+<itunes:owner>
+<itunes:name>Elijah</itunes:name>
+<itunes:email>counterplan@proton.me</itunes:email>
+</itunes:owner>
+<itunes:image href="https://counterplan.github.io/img/icon.png"/>
+<itunes:category text="Politics"></itunes:category>
+<!-- <itunes:category text="CATEGORY2"></itunes:category>
+<itunes:category text="CATEGORY3"></itunes:category> -->
+
+<item>
+<title>Test</title>
+<itunes:title>Test</itunes:title>
+<itunes:author>Elijah</itunes:author>
+<itunes:subtitle>
+test
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+test thing ye that
+]]>
+</itunes:summary>
+<description>
+<![CDATA[
+test thing ye that
+]]>
+</description>
+<!-- <itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/> -->
+<enclosure url="https://counterplan.github.io/audio/test.mp3" length="475666" type="audio/mpeg"/>
+<itunes:duration>00:20</itunes:duration>
+<itunes:season>0</itunes:season>
+<itunes:episode>0</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+"https://counterplan.github.io/audio/test.mp3"
+</guid>
+<pubDate>Teus, 18 Apr 2023 13:00:00 GMT</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<!-- ... REPEAT <item> for each episode ... -->
+
+</channel>
 </rss>
