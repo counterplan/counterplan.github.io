@@ -11,7 +11,7 @@
 Experiments in thought surrounding politics, economics, and philosophy.
 </itunes:summary>
 <itunes:keywords>
-politics, economics, philosophy, debate
+politics, economics, philosophy, debate, value for value, value4value, Lightning, Bitcoin, Boost, privacy, government
 </itunes:keywords>
 <description>
 Experiments in thought surrounding politics, economics, and philosophy.
@@ -42,9 +42,10 @@ test thing ye that
 ]]>
 </itunes:summary>
 <description>
-<!-- <![CDATA[ -->
+<![CDATA[
+Adknowledgments
 Art: " <a href="https://thenounproject.com/icon/the-thinker-57467/">The Thinker</a> ", by <a href="https://thenounproject.com/nuno.lezon/">Nuno Lezon</a> from Noun Project under CCBY3.0.
-<!-- ]]> -->
+]]>
 </description>
 <!-- <itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/> -->
 <enclosure url="https://counterplan.github.io/audio/test.mp3" length="475666" type="audio/mpeg"/>
