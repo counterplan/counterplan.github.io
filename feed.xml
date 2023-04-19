@@ -23,7 +23,7 @@ Experiments in thought surrounding politics, economics, and philosophy.
 <itunes:image href="https://counterplan.github.io/img/icon.png"/>
 <itunes:category text="Government"></itunes:category>
 <itunes:category text="History"></itunes:category>
-<itunes:category text="Philosophy"></itunes:category>
+<itunes:category text="Society &amp; Culture"><itunes:category text="Philosophy"/></itunes:category>
 <itunes:explicit>no</itunes:explicit>
 
 <item>
