@@ -5,7 +5,7 @@
 <language>en-us</language>
 <atom:link href="https://counterplan.github.io/feed.xml" rel="self" type="application/rss+xml"/>
 <copyright>Elijah</copyright>
-<itunes:subtitle></itunes:subtitle>
+<itunes:subtitle>Experiments In Thought</itunes:subtitle>
 <itunes:author>Elijah</itunes:author>
 <itunes:summary>
 Experiments in thought surrounding politics, economics, and philosophy.
@@ -39,9 +39,9 @@ test thing ye that
 ]]>
 </itunes:summary>
 <description>
-<![CDATA[
-test thing ye that
-]]>
+<!-- <![CDATA[ -->
+Art: " <a href="https://thenounproject.com/icon/the-thinker-57467/">The Thinker</a> ", by <a href="https://thenounproject.com/nuno.lezon/">Nuno Lezon</a> from Noun Project under CCBY3.0.
+<!-- ]]> -->
 </description>
 <!-- <itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/> -->
 <enclosure url="https://counterplan.github.io/audio/test.mp3" length="475666" type="audio/mpeg"/>
