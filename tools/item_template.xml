@@ -1,0 +1,37 @@
+<item>
+<title>EPISODE_TITLE</title>
+<itunes:title>EPISODE_TITLE</itunes:title>
+<itunes:author>Elijah</itunes:author>
+<itunes:subtitle>
+EPISODE_SUBTITLE
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+
+EPISODE_DESCRIPTION
+
+Adknowledgments
+Art: " <a href="https://thenounproject.com/icon/the-thinker-57467/">The Thinker</a> ", by <a href="https://thenounproject.com/nuno.lezon/">Nuno Lezon</a> from Noun Project under CCBY3.0.
+]]>
+</itunes:summary>
+<description>
+<![CDATA[
+
+EPISODE_DESCRIPTION
+
+Adknowledgments
+"<a href="https://thenounproject.com/icon/the-thinker-57467/">The Thinker</a>", by <a href="https://thenounproject.com/nuno.lezon/">Nuno Lezon</a> from Noun Project under CCBY3.0.
+]]>
+</description>
+<!-- <itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/> -->
+<enclosure url="https://counterplan.github.io/audio/EPISODE_FILE.mp3" length="EPISODE_SIZE" type="audio/mpeg"/>
+<itunes:duration>EPISODE_DURATION</itunes:duration>
+<itunes:season>0</itunes:season>
+<itunes:episode>EPISODE_NUMBER</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+"https://counterplan.github.io/audio/EPISODE_FILE.mp3"
+</guid>
+<pubDate>EPISODE_DATE</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>

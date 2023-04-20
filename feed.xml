@@ -4,11 +4,11 @@
 <link>https://counterplan.github.io/</link>
 <language>en-us</language>
 <atom:link href="https://counterplan.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-<copyright>Elijah</copyright>
-<itunes:subtitle>Experiments In Thought</itunes:subtitle>
+<copyright></copyright>
+<itunes:subtitle>Experiments In Thinking</itunes:subtitle>
 <itunes:author>Elijah</itunes:author>
 <itunes:summary>
-Experiments in thought surrounding politics, economics, and philosophy.
+Discussions about economics, politics, forgein policy, philosophy, government, and more. Done by debaters weekly.
 </itunes:summary>
 <itunes:keywords>
 politics, economics, philosophy, debate, value for value, value4value, Lightning, Bitcoin, Boost, privacy, government
@@ -28,39 +28,41 @@ Experiments in thought surrounding politics, economics, and philosophy.
 <podcast:value type="lightning" method="keysend">
       <podcast:valueRecipient name="Elijah" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="nigrcE7KgImP5QUghG9F" split="100"/>
 </podcast:value>
-
 <item>
-<title>Test</title>
-<itunes:title>Test</itunes:title>
+<title>Test Episode</title>
+<itunes:title>Test Episode</itunes:title>
 <itunes:author>Elijah</itunes:author>
 <itunes:subtitle>
-test
+testing testing 123
 </itunes:subtitle>
 <itunes:summary>
 <![CDATA[
-test thing ye that
+This is a test episode to make sure things are working.
+
+Adknowledgments
+Art: " <a href="https://thenounproject.com/icon/the-thinker-57467/">The Thinker</a> ", by <a href="https://thenounproject.com/nuno.lezon/">Nuno Lezon</a> from Noun Project under CCBY3.0.
 ]]>
 </itunes:summary>
 <description>
 <![CDATA[
+This is a test episode to make sure things are working.
+
 Adknowledgments
 Art: " <a href="https://thenounproject.com/icon/the-thinker-57467/">The Thinker</a> ", by <a href="https://thenounproject.com/nuno.lezon/">Nuno Lezon</a> from Noun Project under CCBY3.0.
 ]]>
 </description>
-<!-- <itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/> -->
-<enclosure url="https://counterplan.github.io/audio/test.mp3" length="475666" type="audio/mpeg"/>
+
+<enclosure url="https://counterplan.github.io//audio/test.mp3" length="472553" type="audio/mpeg"/>
 <itunes:duration>00:20</itunes:duration>
-<itunes:season>0</itunes:season>
+<itunes:season>1</itunes:season>
 <itunes:episode>0</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 <guid isPermaLink="false">
-"https://counterplan.github.io/audio/test.mp3"
+"https://counterplan.github.io//audio/test.mp3"
 </guid>
-<pubDate>Teus, 18 Apr 2023 13:00:00 GMT</pubDate>
+<pubDate>18 April 2023 13:00:00 MDT</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
-
-<!-- ... REPEAT <item> for each episode ... -->
 
 </channel>
 </rss>
