@@ -6,7 +6,7 @@
 <atom:link href="https://counterplan.github.io/feed.xml" rel="self" type="application/rss+xml"/>
 <copyright></copyright>
 <itunes:subtitle>Experiments In Thinking</itunes:subtitle>
-<itunes:author>Elijah</itunes:author>
+<itunes:author>Elijah Buchanan, Walker Curr</itunes:author>
 <itunes:summary>
 Discussions about economics, politics, forgein policy, philosophy, government, and more. Done by debaters weekly.
 </itunes:summary>
@@ -17,7 +17,7 @@ politics, economics, philosophy, debate, value for value, value4value, Lightning
 Experiments in thought surrounding politics, economics, and philosophy.
 </description>
 <itunes:owner>
-<itunes:name>Elijah</itunes:name>
+<itunes:name>Elijah Buchanan, Walker Curr</itunes:name>
 <itunes:email>counterplan@proton.me</itunes:email>
 </itunes:owner>
 <itunes:image href="https://counterplan.github.io/img/icon.png"/>
@@ -28,41 +28,85 @@ Experiments in thought surrounding politics, economics, and philosophy.
 <podcast:value type="lightning" method="keysend">
       <podcast:valueRecipient name="Elijah" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="nigrcE7KgImP5QUghG9F" split="100"/>
 </podcast:value>
+
 <item>
-<title>Test Episode</title>
-<itunes:title>Test Episode</itunes:title>
-<itunes:author>Elijah</itunes:author>
+<title>A Real World MOP?</title>
+<itunes:title>A Real World MOP?</itunes:title>
+<itunes:author>Elijah Buchanan, Walker Curr</itunes:author>
 <itunes:subtitle>
-testing testing 123
+Could the Mobile Operations Police of Ender's Game work?
 </itunes:subtitle>
 <itunes:summary>
 <![CDATA[
-This is a test episode to make sure things are working.
+<h3>Description</h3>
+Walker and Elijah discuss the Mobile Operations Police (MOP) of Ender's Game, an international and independent
+force of elite fighters who fight terrorists and aliens in the books.
+We investigate how the MOP functioned, what makes it unique from modern day special forces, and what a real
+world MOP might look like.
 
-Adknowledgments
-Art: " <a href="https://thenounproject.com/icon/the-thinker-57467/">The Thinker</a> ", by <a href="https://thenounproject.com/nuno.lezon/">Nuno Lezon</a> from Noun Project under CCBY3.0.
+<h3>Contact</h3>
+<p>Reach out through email or boostagram, and we will read and discuss it on the show.</p>
+<p>Email: <a href="mailto:counterplan@proton.me">counterplan@proton.me</a></p>
+
+<h3>Value4Value</h3>
+<p>If you got some value from the show, please consider giving back through a boost.</p>
+<li>Install a <a href="newpodcastapps.com">new podcast app</a> and boost in on the episode page.</li>
+<p>...or, if you want to keep your current podcast app</p>
+<li>Boost in directly from the <a href="podcastindex.org">Podcast Index</a> 
+    <ul>
+      <li>Install <a href="https://getalby.com/">Alby</a></li>
+      <li>Find Counterplan on the Podcast Index</li>
+      <li>Boost right from the page!</li>
+    </ul>
+</li>
+
+<h3>Adknowledgments</h3>
+<p>Art of " <a href="https://thenounproject.com/icon/the-thinker-57467/">The Thinker</a> ", by <a href="https://thenounproject.com/nuno.lezon/">Nuno Lezon</a> from <a href="https://thenounproject.com/">Noun Project</a> under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.</p>
+<p>Music by <a href="https://pixabay.com/users/playsound-24686998/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=11755">Playsound</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=11755">Pixabay</a>.</p>
 ]]>
 </itunes:summary>
 <description>
 <![CDATA[
-This is a test episode to make sure things are working.
+<h3>Description</h3>
+Walker and Elijah discuss the Mobile Operations Police (MOP) of Ender's Game, an international and independent
+force of elite fighters who fight terrorists and aliens in the books.
+We investigate how the MOP functioned, what makes it unique from modern day special forces, and what a real
+world MOP might look like.
 
-Adknowledgments
-Art: " <a href="https://thenounproject.com/icon/the-thinker-57467/">The Thinker</a> ", by <a href="https://thenounproject.com/nuno.lezon/">Nuno Lezon</a> from Noun Project under CCBY3.0.
+<h3>Contact</h3>
+<p>Reach out through email or boostagram, and we will read and discuss it on the show.</p>
+<p>Email: <a href="mailto:counterplan@proton.me">counterplan@proton.me</a></p>
+
+<h3>Value4Value</h3>
+<p>If you got some value from the show, please consider giving back through a boost.</p>
+<li>Install a <a href="newpodcastapps.com">new podcast app</a> and boost in on the episode page.</li>
+<p>...or, if you want to keep your current podcast app</p>
+<li>Boost in directly from the <a href="podcastindex.org">Podcast Index</a> 
+    <ul>
+      <li>Install <a href="https://getalby.com/">Alby</a></li>
+      <li>Find Counterplan on the Podcast Index</li>
+      <li>Boost right from the page!</li>
+    </ul>
+</li>
+
+<h3>Adknowledgments</h3>
+<p>Art of " <a href="https://thenounproject.com/icon/the-thinker-57467/">The Thinker</a> ", by <a href="https://thenounproject.com/nuno.lezon/">Nuno Lezon</a> from <a href="https://thenounproject.com/">Noun Project</a> under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.</p>
+<p>Music by <a href="https://pixabay.com/users/playsound-24686998/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=11755">Playsound</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=11755">Pixabay</a>.</p>
 ]]>
 </description>
 
-<enclosure url="https://counterplan.github.io//audio/test.mp3" length="472553" type="audio/mpeg"/>
-<itunes:duration>00:20</itunes:duration>
+<enclosure url="https://counterplan.github.io//audio/episode1.mp3" length="29224975" type="audio/mpeg"/>
+<itunes:duration>42:08</itunes:duration>
 <itunes:season>1</itunes:season>
-<itunes:episode>0</itunes:episode>
+<itunes:episode>1</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 <guid isPermaLink="false">
-"https://counterplan.github.io//audio/test.mp3"
+"https://counterplan.github.io//audio/episode1.mp3"
 </guid>
-<pubDate>18 April 2023 13:00:00 MDT</pubDate>
+<pubDate>22 April 2023 09:00:00 MDT</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
+
 
 </channel>
 </rss>
