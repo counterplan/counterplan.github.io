@@ -26,7 +26,8 @@ Experiments in thought surrounding politics, economics, and philosophy.
 <itunes:category text="Society &amp; Culture"><itunes:category text="Philosophy"/></itunes:category>
 <itunes:explicit>no</itunes:explicit>
 <podcast:value type="lightning" method="keysend">
-      <podcast:valueRecipient name="Elijah" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="nigrcE7KgImP5QUghG9F" split="100"/>
+      <podcast:valueRecipient name="Elijah" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="nigrcE7KgImP5QUghG9F" split="98"/>
+      <podcast:valueRecipient name="Podcastindex.org" type="node" address="03ae9f91a0cb8ff43840e3c322c4c61f019d8c1c3cea15a25cfc425ac605e61a4a" split="2"/>
 </podcast:value>
 
 <item>
