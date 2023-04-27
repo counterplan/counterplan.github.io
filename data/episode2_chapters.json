@@ -1,0 +1,42 @@
+{
+  "version": "1.2.0",
+  "chapters":
+  [
+    {
+      "startTime": 0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 30,
+      "title": "What is Congress Debate?"
+    },
+    {
+      "startTime": 270,
+      "title": "Insider Trading & The STOCK Act"
+    },
+    {
+      "startTime": 660,
+      "title": "Optional Death Penalty"
+    },
+    {
+      "startTime": 960,
+      "title": "A Bill to Repeal The Jones Act"
+    },
+    {
+      "startTime": 1350,
+      "title": "Discouraging Scottish Independence"
+    },
+    {
+      "startTime": 2010,
+      "title": "Trends and bills we didn't like"
+    },
+    {
+      "startTime": 2820,
+      "title": "How to write better bills"
+    },
+    {
+      "startTime": 3180,
+      "title": "Outro"
+    }
+  ]
+}
