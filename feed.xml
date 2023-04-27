@@ -12,7 +12,7 @@
 Discussions about economics, politics, forgein policy, philosophy, government, and more. Done by debaters weekly.
 </itunes:summary>
 <itunes:keywords>
-politics, economics, philosophy, debate, value for value, value4value, Lightning, Bitcoin, Boost, privacy, government
+politics, economics, philosophy, debate, congress, value for value, value4value, Lightning, Bitcoin, Boost, privacy, government
 </itunes:keywords>
 <description>
 Experiments in thought surrounding politics, economics, and philosophy.
@@ -56,6 +56,18 @@ Independence movement and should the US support it? Why is unconstitutional legi
 Three congress nerds pick apart these questions and more on Counterplan.
 </p>
 
+<h3>Chapters</h3>
+(00:00) Intro
+(00:30) What is Congress Debate?
+(04:30) Insider Trading & The STOCK Act
+(11:00) Optional Death Penalty
+(16:00) A Bill to Repeal The Jones Act
+(22:30) Discouraging Scottish Independence
+(33:30) Trends and bills we didn't like
+(47:00) How to write better bills
+(53:00) Outro
+
+
 <h3>Contact</h3>
 <p>Reach out through email or boostagram, and we will read and discuss it on the show.</p>
 <p>Email: <a href="mailto:counterplan@proton.me">counterplan@proton.me</a></p>
@@ -92,6 +104,18 @@ Independence movement and should the US support it? Why is unconstitutional legi
 Three congress nerds pick apart these questions and more on Counterplan.
 </p>
 
+<h3>Chapters</h3>
+(00:00) Intro
+(00:30) What is Congress Debate?
+(04:30) Insider Trading & The STOCK Act
+(11:00) Optional Death Penalty
+(16:00) A Bill to Repeal The Jones Act
+(22:30) Discouraging Scottish Independence
+(33:30) Trends and bills we didn't like
+(47:00) How to write better bills
+(53:00) Outro
+
+
 <h3>Contact</h3>
 <p>Reach out through email or boostagram, and we will read and discuss it on the show.</p>
 <p>Email: <a href="mailto:counterplan@proton.me">counterplan@proton.me</a></p>
@@ -113,7 +137,6 @@ Art of " <a href="https://thenounproject.com/icon/the-thinker-57467/">The Thinke
 Music by <a href="https://pixabay.com/users/playsound-24686998/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=11755">Playsound</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=11755">Pixabay</a>.
 ]]>
 </description>
-
 <enclosure url="https://counterplan.github.io/audio/episode2.mp3" length="36580236" type="audio/mpeg"/>
 <itunes:duration>53:42</itunes:duration>
 <itunes:season>1</itunes:season>
@@ -124,8 +147,8 @@ Music by <a href="https://pixabay.com/users/playsound-24686998/?utm_source=link-
 </guid>
 <pubDate>27 April 2023 12:40:00 MDT</pubDate>
 <itunes:explicit>no</itunes:explicit>
+<podcast:chapters url="https://counterplan.github.io/data/episode2_chapters.json" type="application/json+chapters" />
 </item>
-
 
 <item>
 <title>A Real World MOP?</title>
@@ -192,7 +215,6 @@ world MOP might look like.
 <p>Music by <a href="https://pixabay.com/users/playsound-24686998/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=11755">Playsound</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=11755">Pixabay</a>.</p>
 ]]>
 </description>
-
 <enclosure url="https://counterplan.github.io//audio/episode1.mp3" length="29224975" type="audio/mpeg"/>
 <itunes:duration>42:08</itunes:duration>
 <itunes:season>1</itunes:season>
