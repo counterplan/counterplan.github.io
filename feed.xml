@@ -6,7 +6,7 @@
 <atom:link href="https://counterplan.github.io/feed.xml" rel="self" type="application/rss+xml"/>
 <copyright></copyright>
 <itunes:subtitle>Experiments In Thinking</itunes:subtitle>
-<itunes:author>Elijah Buchanan, Walker Curr</itunes:author>
+<itunes:author>Elijah Buchanan and Walker Curr</itunes:author>
 <itunes:summary>
 Discussions about economics, politics, forgein policy, philosophy, government, and more. Done by debaters weekly.
 </itunes:summary>
@@ -17,7 +17,7 @@ politics, economics, philosophy, debate, value for value, value4value, Lightning
 Experiments in thought surrounding politics, economics, and philosophy.
 </description>
 <itunes:owner>
-<itunes:name>Elijah Buchanan, Walker Curr</itunes:name>
+<itunes:name>Elijah Buchanan and Walker Curr</itunes:name>
 <itunes:email>counterplan@proton.me</itunes:email>
 </itunes:owner>
 <itunes:image href="https://counterplan.github.io/img/icon.png"/>
@@ -33,7 +33,7 @@ Experiments in thought surrounding politics, economics, and philosophy.
 <item>
 <title>A Real World MOP?</title>
 <itunes:title>A Real World MOP?</itunes:title>
-<itunes:author>Elijah Buchanan, Walker Curr</itunes:author>
+<itunes:author>Elijah Buchanan and Walker Curr</itunes:author>
 <itunes:subtitle>
 Could the Mobile Operations Police of Ender's Game work?
 </itunes:subtitle>
