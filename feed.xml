@@ -27,6 +27,8 @@ Experiments in thought surrounding politics, economics, and philosophy.
 <itunes:category text="Society &amp; Culture"><itunes:category text="Philosophy"/></itunes:category>
 <itunes:explicit>no</itunes:explicit>
 
+<podcast:person role="co-host">Walker Curr</podcast:person>
+<podcast:person role="co-host">Elijah Buchanan</podcast:person>
 <podcast:guid>9ed0751f-f6fb-54a7-b769-3679176b6e8f</podcast:guid>
 <podcast:value type="lightning" method="keysend">
       <podcast:valueRecipient name="Elijah" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="nigrcE7KgImP5QUghG9F" split="96"/>
@@ -39,6 +41,9 @@ Experiments in thought surrounding politics, economics, and philosophy.
 <title>Insider Trading, An Optional Death Penalty, and Scottish Independence</title>
 <itunes:title>Insider Trading, An Optional Death Penalty, and Scottish Independence</itunes:title>
 <itunes:author>Elijah Buchanan, Walker Curr, and James Findlay</itunes:author>
+<podcast:person role="co-host">Walker Curr</podcast:person>
+<podcast:person role="co-host">Elijah Buchanan</podcast:person>
+<podcast:person role="guest">James Findlay</podcast:person>
 <itunes:subtitle>
 A Review of the 2023 Congress Debate Season
 </itunes:subtitle>
@@ -76,7 +81,7 @@ If you got some value from the show, please consider giving back through a boost
   • Find <a href="https://podcastindex.org/podcast/6325209">Counterplan on the Podcast Index</a>
   • Boost right from the page!
 
-Acknowledgments
+<h3>Acknowledgments</h3>
 Art of " <a href="https://thenounproject.com/icon/the-thinker-57467/">The Thinker</a> ", by <a href="https://thenounproject.com/nuno.lezon/">Nuno Lezon</a> from <a href="https://thenounproject.com/">Noun Project</a> under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.
 Music by <a href="https://pixabay.com/users/playsound-24686998/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=11755">Playsound</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=11755">Pixabay</a>.
 ]]>
@@ -114,7 +119,7 @@ If you got some value from the show, please consider giving back through a boost
   • Find <a href="https://podcastindex.org/podcast/6325209">Counterplan on the Podcast Index</a>
   • Boost right from the page!
 
-Acknowledgments
+<h3>Acknowledgments</h3>
 Art of " <a href="https://thenounproject.com/icon/the-thinker-57467/">The Thinker</a> ", by <a href="https://thenounproject.com/nuno.lezon/">Nuno Lezon</a> from <a href="https://thenounproject.com/">Noun Project</a> under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.
 Music by <a href="https://pixabay.com/users/playsound-24686998/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=11755">Playsound</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=11755">Pixabay</a>.
 ]]>
