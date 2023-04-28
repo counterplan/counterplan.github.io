@@ -29,7 +29,8 @@ Experiments in thought surrounding politics, economics, and philosophy.
 
 <podcast:guid>9ed0751f-f6fb-54a7-b769-3679176b6e8f</podcast:guid>
 <podcast:value type="lightning" method="keysend">
-      <podcast:valueRecipient name="Elijah" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="nigrcE7KgImP5QUghG9F" split="98"/>
+      <podcast:valueRecipient name="Elijah" type="node" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="nigrcE7KgImP5QUghG9F" split="96"/>
+      <podcast:valueRecipient name="Podverse" type="node" address="02b92193a4c9d035c81f8076ae4a4aba04b7ea8e04058eb3296f894e6ccd5f2e6e" split="2"/>
       <podcast:valueRecipient name="Podcastindex.org" type="node" address="03ae9f91a0cb8ff43840e3c322c4c61f019d8c1c3cea15a25cfc425ac605e61a4a" split="2"/>
 </podcast:value>
 
